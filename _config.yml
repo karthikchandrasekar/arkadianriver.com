@@ -15,11 +15,11 @@ title: Sangam Ventures
 description: Sangam Ventures is a seed and early stage venture fund that invests to improve access to sustainable energy and resource productivity solutions for the underserved in India. <br/><br/>We invest in solutions that lead to inclusive development and the creation of communities that are resilient to climate change
 owner:
   name: Sangam Ventures # or company name
-  url: "http://sangam.vc/arkadianriver.com/" # your URL
+  url: "http://sangam.vc/sangam.vc/" # your URL
 first_published: 2010 # if migrating another site, the year of your first publish
                       # Must be a 4-digit integer year (math is used on it)
-url: "http://sangam.vc/arkadianriver.com/" # the base hostname & protocol for this site
-baseurl: "/arkadianriver.com/" # the subpath of your site, e.g. /blog
+url: "http://sangam.vc/sangam.vc/" # the base hostname & protocol for this site
+baseurl: "/sangam.vc/" # the subpath of your site, e.g. /blog
             # Note you'll have to move your robots.txt to the root if you want it used.
             # And list multiple sitemaps if there are other subdirectories you want indexed
             # besides this blog.
