@@ -14,12 +14,12 @@
 title: Sangam Ventures
 description: _description_
 owner:
-  name: _your name_ # or company name
+  name: Sangam Ventures # or company name
   url: "http://sangam.vc/arkadianriver.com/" # your URL
 first_published: 2010 # if migrating another site, the year of your first publish
                       # Must be a 4-digit integer year (math is used on it)
 url: "http://sangam.vc/arkadianriver.com/" # the base hostname & protocol for this site
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/arkadianriver.com/" # the subpath of your site, e.g. /blog
             # Note you'll have to move your robots.txt to the root if you want it used.
             # And list multiple sitemaps if there are other subdirectories you want indexed
             # besides this blog.
